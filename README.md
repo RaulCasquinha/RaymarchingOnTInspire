@@ -2,7 +2,12 @@ The tns file is a program that renders a red cube centered at the origin, you ca
 
 
 Good luck running this
+
 It ran on mine but it took a lot of time
+
 omg it froze
+
 help
+
 i cant turn my calculator off help
+
