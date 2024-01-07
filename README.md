@@ -3,7 +3,7 @@ The tns file is a program that renders a red cube centered at the origin, you ca
 
 Good luck running this
 
-It ran on mine but it took a lot of time
+It ran on mine but it took a lot of time (ti-nspire CX II-T)
 
 omg it froze
 
