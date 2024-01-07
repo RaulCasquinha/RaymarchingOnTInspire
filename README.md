@@ -11,3 +11,4 @@ help
 
 i cant turn my calculator off help
 
+nice it turned off after like 20 seconds 👍
